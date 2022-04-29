@@ -3,6 +3,14 @@
 Máximo de 6 períodos para completar 360 horas. Cursos com carga mínima de 30 horas semanais.  
 Data final para finalizar as licenças 05/11/2023. Total de 5+5=10 anos desde 05/11/2013.
 
+### Competência do trabalho no Controle  de Áreas
+
+Resolução 102 13/04/2022 ANM
+
+>Art 95 - Compete à Divisão de Controle de Áreas
+
+>III - idenfiticar, desenvolver e implementar ferramentas voltadas à melhoria de processos de trabalho no Controle de Áreas, e ainda, atuar junto à Coordenação de Geoinformação Mineral da Superintendência de Regulação Econômica e Governança Regulatória para o desenvolvimento de sistemas para automatização das atividades. 
+
 ### Período 1/6 Licença Capacitação
 
 1. Curso Udemy: [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
